@@ -1,6 +1,6 @@
 <?php
 
-namespace Cloudstudio\ResourceGenerator;
+namespace Trapzpro\ResourceGenerator;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool;

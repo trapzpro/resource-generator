@@ -1,12 +1,12 @@
 <?php
 
-namespace Cloudstudio\ResourceGenerator;
+namespace Trapzpro\ResourceGenerator;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use Cloudstudio\ResourceGenerator\Http\Middleware\Authorize;
+use Trapzpro\ResourceGenerator\Http\Middleware\Authorize;
 
 class ResourceGeneratorServiceProvider extends ServiceProvider
 {

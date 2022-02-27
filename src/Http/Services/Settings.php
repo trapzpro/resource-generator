@@ -1,6 +1,6 @@
 <?php
 
-namespace Cloudstudio\ResourceGenerator\Http\Services;
+namespace Trapzpro\ResourceGenerator\Http\Services;
 use Illuminate\Support\Str;
 
 class Settings

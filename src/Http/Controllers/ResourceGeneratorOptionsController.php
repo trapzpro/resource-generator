@@ -1,10 +1,10 @@
 <?php
 
-namespace Cloudstudio\ResourceGenerator\Http\Controllers;
+namespace Trapzpro\ResourceGenerator\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use Cloudstudio\ResourceGenerator\Http\Services\Settings;
+use Trapzpro\ResourceGenerator\Http\Services\Settings;
 
 class ResourceGeneratorOptionsController extends Controller
 {

@@ -1,5 +1,5 @@
 {
-    "name": "cloudstudio/resource-generator",
+    "name": "trapzpro/resource-generator",
     "description": "Resource Generator for Laravel Nova",
     "keywords": [
         "resource",
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Toni Soriano",
-            "email": "hello@cloudstudio.es",
+            "email": "hello@Trapzpro.es",
             "role": "Developer"
         },
         {
@@ -31,13 +31,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Cloudstudio\\ResourceGenerator\\": "src/"
+            "Trapzpro\\ResourceGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Cloudstudio\\ResourceGenerator\\ResourceGeneratorServiceProvider"
+                "Trapzpro\\ResourceGenerator\\ResourceGeneratorServiceProvider"
             ]
         }
     },

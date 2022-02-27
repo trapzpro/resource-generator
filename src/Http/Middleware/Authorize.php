@@ -1,9 +1,9 @@
 <?php
 
-namespace Cloudstudio\ResourceGenerator\Http\Middleware;
+namespace Trapzpro\ResourceGenerator\Http\Middleware;
 
 use Illuminate\Http\Request;
-use Cloudstudio\ResourceGenerator\ResourceGenerator;
+use Trapzpro\ResourceGenerator\ResourceGenerator;
 
 class Authorize
 {
